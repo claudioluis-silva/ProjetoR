@@ -1,7 +1,8 @@
 # Versão 1
 # Exercício de utilização do "R" integrado com Github
 # Primeira Versâo do arquivo de teste.
-library("tydyverse")
+install.packages("tidyverse")
+library("tidyverse")
 # Novas linhas de comando
 # Segunda etapa
 library(readxl)
